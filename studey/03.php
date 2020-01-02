@@ -32,6 +32,7 @@ $arr=$pdo->fetchAll($sql);
             <td><a href="javascript:void(0)" id="<?php echo $value['id']?>">删除</a></td>
         </tr>
         <?php } ?>
+        <a href="05.php"</a>
     </tbody>
 </table>
 </body>
